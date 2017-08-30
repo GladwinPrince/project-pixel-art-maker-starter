@@ -6,7 +6,7 @@ const inputWidth=document.getElementById('input_width');
 // When size is submitted by the user, call makeGrid()
 
 function makeGrid() {
-
+    console.log("Function triggered")
 // Your code goes here!
 
 }
